@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **web technologies**
 
-- 🌱 I’m currently learning **Advance DSA and web tech**
+- 🌱 I’m currently learning **Machine Learning and Web3**
 
 - 💬 Ask me about **Java, javascript and data structures and alogrithms**
 
