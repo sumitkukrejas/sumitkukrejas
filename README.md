@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sumit.kukreja221@gmail.com**
 
-- 📄 Know about my experiences [google drive link](https://drive.google.com/file/d/1c7RqT-uPQ69KemFISm9hyeUmaaaG9uz1/view?usp=sharing)
+- 📄 Know about my experiences [google drive link](https://drive.google.com/file/d/1nbg2gpl7k-REfx4CHljQrXMtzvap2wW6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
